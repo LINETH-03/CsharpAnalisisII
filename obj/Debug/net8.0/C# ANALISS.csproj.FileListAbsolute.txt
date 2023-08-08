@@ -1,0 +1,15 @@
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\bin\Debug\net8.0\C# ANALISS.exe
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\bin\Debug\net8.0\C# ANALISS.deps.json
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\bin\Debug\net8.0\C# ANALISS.runtimeconfig.json
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\bin\Debug\net8.0\C# ANALISS.dll
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\bin\Debug\net8.0\C# ANALISS.pdb
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.AssemblyInfoInputs.cache
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.AssemblyInfo.cs
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.sourcelink.json
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.dll
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\refint\C# ANALISS.dll
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.pdb
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\C# ANALISS.genruntimeconfig.cache
+C:\Users\herna\OneDrive\Escritorio\C# ANALISS\obj\Debug\net8.0\ref\C# ANALISS.dll
